@@ -1,4 +1,4 @@
-package com.orik.airdotsdoubletap
+package tk.taroninak.airdotsdoubletap
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.orik.airdotsdoubletap", appContext.packageName)
+        assertEquals("tk.taroninak.airdotsdoubletap", appContext.packageName)
     }
 }

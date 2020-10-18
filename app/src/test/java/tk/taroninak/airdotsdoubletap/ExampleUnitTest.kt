@@ -1,4 +1,4 @@
-package com.orik.airdotsdoubletap
+package tk.taroninak.airdotsdoubletap
 
 import org.junit.Test
 
